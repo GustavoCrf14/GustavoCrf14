@@ -16,8 +16,8 @@
   * Introduction to automated testing
   * Agile Methodologies 
   * Code Versioning with Git and GitHub
-  * Java Development Environment
   * SQL for Data Analysis: From basics to advanced
+  * Postman
 - 📫 How to reach me:
   * cell phone (21) 9 9595-9623
   * LinkedIn: https://www.linkedin.com/in/gustavo-souza-7168122a1/?trk=opento_sprofile_topcard
