@@ -5,15 +5,13 @@
 - 👀 I'm looking for positions:
   * IT Analyst
   * Quality Assurance Test Analyst
-  * Data Analyst
-  * IT Intern
 - 👨🏾‍💻 I’m currently Studying:
   * systems analysis and development
 - 📚 Course and Certifications:
   * Programming logic
   * Unit testing in Java using Junit
   * Introduction to automated testing
-  * Introduction to automated testing
+  * Javascript para testers
   * Agile Methodologies 
   * Code Versioning with Git and GitHub
   * SQL for Data Analysis: From basics to advanced
@@ -21,7 +19,7 @@
 - 📫 How to reach me:
   * cell phone (21) 9 9595-9623
   * LinkedIn: https://www.linkedin.com/in/gustavo-souza-7168122a1/?trk=opento_sprofile_topcard
-  * Instagran: https://www.instagram.com/gustavo_lsz?igsh=ZGRuem1oM3JnZzRn
+  
 
 
 <!---
