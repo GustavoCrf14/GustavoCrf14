@@ -41,17 +41,17 @@ Estudante de Análise e Desenvolvimento de Sistemas, focado em Quality Assurance
 ### 1. **Swag Labs – Testes Web**
 - Testes manuais e automatizados em e-commerce de demonstração  
 - Scripts em Cypress com geração de relatórios HTML  
-- [Ver projeto](#)
+
 
 ### 2. **Testes de API – ANS**
 - Validação de endpoints REST usando Postman e Newman  
 - Transformação e análise de dados com SQL  
-- [Ver projeto](#)
+
 
 ### 3. **Portfólio QA**
 - Organização de testes automatizados e documentação de resultados  
 - Demonstração de habilidades em QA para recrutadores  
-- [Ver projeto](#)
+
 
 ---
 
