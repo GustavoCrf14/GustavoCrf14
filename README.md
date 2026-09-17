@@ -45,14 +45,6 @@ Projeto com **Postman e Newman**, explorando testes de endpoints, validações e
 
 ➡️ [Ver projeto](https://github.com/GustavoCrf14/serveRestAPI)
 
-### 🔹 Automação Web
-
-Projetos de automação de testes voltados para aplicações web, com foco em cenários funcionais e validação de comportamentos.
-
-### 🔹 Portfólio de QA
-
-Em evolução, reunindo estudos e projetos práticos de testes manuais, API, automação e validação de dados.
-
 ---
 
 ## 🎓 Formação
