@@ -1,71 +1,74 @@
-# Gustavo Lopes de Souza
+# Gustavo Souza
 
-📍 São Gonçalo, RJ  
-📧 gustavo.glp7@gmail.com  
-📱 (21) 99595-9623  
-🔗 [LinkedIn](https://www.linkedin.com/in/gustavo-souza-7168122a1/)  
+### QA | Quality Assurance | Software Testing
 
----
+Profissional de Tecnologia formado em **Análise e Desenvolvimento de Sistemas**, com foco em **Quality Assurance (QA)** e Qualidade de Software.
 
-## 👋 Sobre Mim
-Estudante de Análise e Desenvolvimento de Sistemas, focado em Quality Assurance (QA). Experiência prática em testes manuais e automatizados, validação de bugs, API REST, automação com Cypress, Selenium e JUnit, além de análise de dados com SQL. Apaixonado por entregar software com qualidade e sempre aprendendo novas ferramentas e práticas de QA.
+Tenho interesse e experiência prática em **testes manuais e automatizados**, testes de **API REST**, validação de funcionalidades, identificação de falhas e documentação de resultados. Busco evoluir continuamente em automação de testes e boas práticas de qualidade.
 
 ---
 
-## 🛠 Habilidades Técnicas
+## 🧪 Conhecimentos em QA
 
-### Ferramentas e Linguagens
-![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Office](https://img.shields.io/badge/-Office-DC3E15?style=for-the-badge&logo=microsoftoffice&logoColor=white)
+* Testes funcionais e manuais
+* Testes de API REST
+* Automação de testes
+* Validação de cenários e funcionalidades
+* Identificação e documentação de bugs
+* Testes de regressão
+* SQL para validação de dados
+* Noções de metodologias ágeis
+
+## 🛠️ Tecnologias e Ferramentas
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge\&logo=cypress\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+![Newman](https://img.shields.io/badge/Newman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 
 ### Metodologias
-![Scrum](https://img.shields.io/badge/-Scrum-009FDA?style=for-the-badge&logo=jira&logoColor=white)
-![Kanban](https://img.shields.io/badge/-Kanban-0052CC?style=for-the-badge&logo=trello&logoColor=white)
-![Trello](https://img.shields.io/badge/-Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 
-### Soft Skills
-- Boa comunicação e trabalho em equipe  
-- Adaptabilidade e aprendizado rápido  
-- Foco na eficiência e qualidade  
+* Scrum
+* Kanban
+* Práticas de desenvolvimento e testes em projetos acadêmicos e pessoais
 
 ---
 
-## 💻 Projetos de QA
+## 📂 Projetos de QA
 
-### 1. **Swag Labs – Testes Web**
-- Testes manuais e automatizados em e-commerce de demonstração  
-- Scripts em Cypress com geração de relatórios HTML  
+### 🔹 Testes de API REST
 
+Projeto com **Postman e Newman**, explorando testes de endpoints, validações e execução automatizada de coleções.
 
-### 2. **Testes de API – ANS**
-- Validação de endpoints REST usando Postman e Newman  
-- Transformação e análise de dados com SQL  
+➡️ [Ver projeto](https://github.com/GustavoCrf14/serveRestAPI)
 
+### 🔹 Automação Web
 
-### 3. **Portfólio QA**
-- Organização de testes automatizados e documentação de resultados  
-- Demonstração de habilidades em QA para recrutadores  
+Projetos de automação de testes voltados para aplicações web, com foco em cenários funcionais e validação de comportamentos.
 
+### 🔹 Portfólio de QA
+
+Em evolução, reunindo estudos e projetos práticos de testes manuais, API, automação e validação de dados.
 
 ---
 
 ## 🎓 Formação
-**Análise e Desenvolvimento de Sistemas – 3º semestre**  
-[Nome da Instituição] – São Gonçalo/RJ  
+
+**Análise e Desenvolvimento de Sistemas**
+Graduação concluída em agosto de 2026.
 
 ---
 
-## 🌐 Idiomas
-- Português – Nativo  
-- Espanhol – Básico  
+## 🎯 Objetivo
+
+Busco minha **primeira oportunidade profissional como QA / Analista de QA Júnior**, onde possa aplicar meus conhecimentos, desenvolver experiência prática e contribuir para a entrega de software com qualidade.
 
 ---
 
-## 🔖 Informações Adicionais
-- CNH: Categoria A  
-- Idade: 26 anos  
+## 📫 Contato
+
+* [LinkedIn](https://www.linkedin.com/in/gustavo-souza-7168122a1/)
+* Email: avogevu@gmail.com
